@@ -73,7 +73,7 @@
                 {
                  "name":"exitUrl",
                  "type":"file",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/localhost:8080\/other_map.json"
+                 "value":"other_map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
