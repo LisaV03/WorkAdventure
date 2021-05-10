@@ -42,7 +42,7 @@
                 {
                  "name":"exitUrl",
                  "type":"file",
-                 "value":"map.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/lisav03.github.io\/WorkAdventure\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
