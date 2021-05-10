@@ -48,7 +48,7 @@
                 {
                  "name":"exitUrl",
                  "type":"file",
-                 "value":"b2.json"
+                 "value":"map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -77,17 +77,6 @@
          "type":"tilelayer",
          "visible":true,
          "width":31,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "draworder":"topdown",
-         "id":2,
-         "name":"floorLayer",
-         "objects":[],
-         "opacity":1,
-         "type":"objectgroup",
-         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -124,6 +113,17 @@
          "type":"tilelayer",
          "visible":true,
          "width":31,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":2,
+         "name":"floorLayer",
+         "objects":[],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
          "x":0,
          "y":0
         }],
