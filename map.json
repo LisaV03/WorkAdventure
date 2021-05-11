@@ -98,6 +98,12 @@
          "id":11,
          "name":"exit2",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"file",
+                 "value":"b3.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":35,
