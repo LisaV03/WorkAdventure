@@ -12,7 +12,7 @@
                 {
                  "name":"exitUrl",
                  "type":"file",
-                 "value":"couloir2.json"
+                 "value":"c2.json"
                 }],
          "type":"tilelayer",
          "visible":true,

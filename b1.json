@@ -48,7 +48,7 @@
                 {
                  "name":"exitUrl",
                  "type":"file",
-                 "value":"couloir1.json"
+                 "value":"c1.json"
                 }],
          "type":"tilelayer",
          "visible":true,
